@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 This README provides an overview of the technical considerations for the **Shoe Detection Dataset.**
 Since the source data contains a mix of resolutions and smartphone-captured orientations, the following preprocessing steps are essential for successful viewing and utilization.
 
 ---
 
 # 👟 Shoe Detection Dataset (acv-assignment-4)
+=======
+# 👟 Shoe Detection Dataset (acv-assignment-4): Group 2
+>>>>>>> 97b67a1 (Added some useful dataset processing and csv file with json)
 
 ## Overview
 
